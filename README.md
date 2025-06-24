@@ -19,3 +19,4 @@
 </picture>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicolasSguino)](https://github.com/NicolasSguino/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSguino&hide_progress=true)
