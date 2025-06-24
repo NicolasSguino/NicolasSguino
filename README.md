@@ -18,3 +18,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NicolasSguino&show_icons=true" />
 </picture>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicolasSguino)](https://github.com/NicolasSguino/github-readme-stats)
