@@ -1,6 +1,6 @@
 ### Oi😀 Sou o NicolasSguino
 🎈
-🎨Estudando JAVA, Javascript, SQL, API
+🎨Estudando JAVA, Javascript, SQL, BlockChain
 🎎
 🀄Pronouns: he/her
 🃏
