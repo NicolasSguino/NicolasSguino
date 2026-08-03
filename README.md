@@ -26,20 +26,3 @@
 </div>
           
 
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasSguino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSguino&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasSguino&theme=dracula" alt="Gráfico de Sequência de Código" />
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NicolasSguino&theme=dracula&column=6" alt="Troféus de Nota GitHub" />
-  </a>
-</p>
