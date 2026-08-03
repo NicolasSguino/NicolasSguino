@@ -27,3 +27,16 @@
           
           
           
+<p align="center">
+  <img src="https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=for-the-badge&logo=github&color=7289da" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/seu-usuario/seu-repositorio?style=for-the-badge&logo=github&color=7289da" alt="Forks" />
+  <img src="https://img.shields.io/github/license/seu-usuario/seu-repositorio?style=for-the-badge&color=7289da" alt="Licença" />
+</p>
+
+<p align="center">
+  <a href="#-sobre-o-projeto">Sobre</a> •
+  <a href="#-funcionalidades">Funcionalidades</a> •
+  <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-como-executar">Como Executar</a> •
+  <a href="#-autor">Autor</a>
+</p>
