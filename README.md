@@ -1,6 +1,7 @@
-### Oi😀 Sou o NicolasSguino
+### Hi 😀 im NicolasSguino
 🎈
-🎨Estudando JAVA, Javascript, SQL, BlockChain
+👩‍💻Student
+🎨Studying JAVA, Javascript, SQL, BlockChain
 🎎
 🀄Pronouns: he/her
 🃏
